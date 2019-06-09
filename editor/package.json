@@ -1,0 +1,19 @@
+{
+  "name": "iga_photo_editor",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "baalouach abdelhakim",
+    "email": "abdelhakim.baalouach.04@gmail.com",
+    "url": "https://www.linkedin.com/in/abdelhakim-baalouach/"
+  },
+  "description": "photo editor est un éditeur d’images (avec filtres d’image), personnalisable, thématisé et compatible avec les appareils mobiles, optimisé par les formats JavaScript et HTML5.",
+  "keywords": [
+    "photo",
+    "editor"
+  ],
+  "license": "MIT"
+}
